@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Personal / runtime data
+.device_id
+prts_archive.json
+temp_attachments/
+
+# Backups
+*.bak
+
+# Personal config
+discord_bypass.yaml
+
+# Large assets
+*.png
+
+# IDE
+.claude/
+
+# Utility scripts (not core)
+calc_time.py
+check_tasks.py
+desktop.py
